@@ -1,0 +1,22 @@
+/* ----------------------------------
+ * container
+ * ---------------------------------- */
+.container {
+    max-width: none !important;
+    min-width: 780px;
+    /*width: 850px;*/
+    padding-top: 1em;
+    padding-bottom: 1em;
+  	padding-left: 1px;
+  	padding-right: 1px;
+  	/*margin-left: 1em;
+  	margin-right: 1em;*/
+}
+
+/* ----------------------------------
+ * index
+ * ---------------------------------- */
+.index {
+    background-color: #f1f2f6;
+
+}
